@@ -1,4 +1,4 @@
-An application in C++ which uses the concepts of OOP in order to simulate the architecture of a Movie Distribution Company.There are classes with constructors, destructors and representatives methods for Movie, Person, Director, Actor etc.  
+An application in C++ which uses the concepts of OOP in order to simulate the architecture of a Movie Distribution Company.There are classes with constructors, destructors and representatives methods for Movie, Person, Director, Actor etc. One of the requirements was to also have the operators overloaded.
 Among other features, the application has an interactive menu.
 Some of the functionalities of it:
 - add a new movie
